@@ -1,2 +1,6 @@
 the rainbow
 purple
+pink
+orange
+blue 
+green
